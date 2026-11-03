@@ -1,0 +1,28 @@
+---
+title: Projects
+---
+
+## Cardiac Surgical Outcomes
+
+<img src="" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+
+I work on research studying outcomes after cardiac surgery. Projects include outcomes after mitral surgical repair techniques, along with outcomes after concomitant procedures, including mitral and tricuspid combined procedures and mitral and aortic combined procedures.
+
+----
+
+## Cardiac MRI
+
+<img src="" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
+
+I am studying cardiac surgical outcomes and cardiac MRI predictors. I also study hemodynamics outcomes after cardiac surgery as quantified by 4D flow cardiac MRI. 
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
