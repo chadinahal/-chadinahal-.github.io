@@ -1,0 +1,35 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/HCA JFK Photo.jpg"
+  links:
+
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.chadinahal1@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am Chadi Nahal, MD, a general surgery resident pursuing fellowship training in cardiothoracic surgery. I completed by Bachelor's of Science in Bioengineering at University of California, Los Angeles and Medical Doctorate at Saint Louis University School of Medicine. I am currently completing a 2 year combined research fellowship at the Cleveland Clinic and Master's in Clinical Research at Case Western Reserve University School of Medicine. 
+
+My research interests include clinical outcomes research, specifically in mitral and aortic surgical techniques and pathologies. I also study the diagnostic utility for cardiac MRI for surgical planning. I have applied by engineering background to use computer software to segment MRI and CT images and perform statistical analysis to diagnose surgical pathologies and predict outcomes after surgery.
+
+I spend my time at the Cleveland Clinic conducting research, coordinating research, and dissecting cadaver specimens for anatomical teaching to medical students. I have completed two years of general surgery and have strong clinical experience that has provided me the surgical and procedural skills to teach and serve the community. 
+
+My hobbies include backpacking, camping, fishing, rock climbing and weight lifting. I also enjoy sketching and gardening. I also enjoy cooking. See some of photos of my hobbies on the hobby page.  
+
+On this website, you will find my curriculum vitae which provides an in-depth summary of my experiences and publications. 
+
+Please feel free to [contact me](mailto:mail.chadinahal1@gmail.com) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
